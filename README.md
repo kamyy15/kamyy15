@@ -24,7 +24,7 @@ Currently open to **full-time roles** in software development.
 
 ---
 
-## ✅ Shipped
+## Shipped
 - **Chatflix** — Social streaming app, Netflix redesign · React Native · TypeScript · Expo
 - **Ministry Website** — Client site for a college women's ministry · React · TypeScript
 - **VR Simulation** — Interactive senior project built in Unity · C#
