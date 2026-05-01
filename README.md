@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Kamy :))
 
-<!--
-**kamyy15/kamyy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering grad building things people actually use.
 
-Here are some ideas to get you started:
+I'm passionate about full-stack development — from web apps to mobile to VR. 
+I love solving real problems for real people, whether that's tracking job 
+applications, helping a ministry reach its community, or building tools for 
+small businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to **full-time roles** in software development.
+
+---
+
+## Tech stack
+`Python` `C#` `C++` `React` `JavaScript / TypeScript` `HTML & CSS`  
+`Swift` `FastAPI` `SQLite` `PostgreSQL` `Unity`
+
+---
+
+## What I'm building!
+- **Job Application Tracker** — Full-stack app to organize job searches · React, FastAPI, PostgreSQL
+- **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
+- **Cleaning Business Site** — Live client site for a small business · coming soon
+
+---
+
+## Shipped
+- **Ministry Website** — Real-world site built for a friend's ministry · React · TypeScript
+- **VR Simulation** — Interactive senior project built in Unity · C#
+
+---
+
+## Let's connect
+Open to full-time roles and internships!  
+· [Email](briathnakbubick@gmail.com)
