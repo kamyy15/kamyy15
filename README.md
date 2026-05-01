@@ -18,18 +18,20 @@ Currently open to **full-time roles** in software development.
 ---
 
 ## What I'm building!
-- **Job Application Tracker** — Full-stack app to organize job searches · React, FastAPI, PostgreSQL
+- **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React
 - **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
 - **Cleaning Business Site** — Live client site for a small business · coming soon
 
 ---
 
-## Shipped
-- **Ministry Website** — Real-world site built for a friend's ministry · React · TypeScript
+## ✅ Shipped
+- **Chatflix** — Social streaming app, Netflix redesign · React Native · TypeScript · Expo
+- **Ministry Website** — Client site for a college women's ministry · React · TypeScript
 - **VR Simulation** — Interactive senior project built in Unity · C#
+- **Cybersecurity Awareness Site** — Educational platform for elderly users · HTML · CSS · JS
 
 ---
 
 ## Let's connect
-Open to full-time roles and internships!  
-· [Email](briathnakbubick@gmail.com)
+Open to full-time roles!  
+· [Email](mailto:briathnakbubick@gmail.com)
