@@ -18,8 +18,8 @@ Currently open to **full-time roles** in software development.
 
 ## What I'm building!
 - **Personal Portfolio Site** - Personal portfolio site to showcase work and services · coming soon
-- **Dog and House Sitting Business Site** — Live client site for a small business · coming soon
 - **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React
+- **Dog and House Sitting Business Site** — Live client site for a small business · coming soon
 - **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
 
 
