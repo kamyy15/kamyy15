@@ -26,7 +26,7 @@ Currently open to **full-time roles** in software development.
 
 ## Built
 - **Personal Portfolio Site** - Personal portfolio site to showcase work and services · Next.js · TypeScript · React · Tailwind · https://kamy-portfolio.vercel.app/
-- **TIM Family Care Agency** - Client site for healthcare agency · Next.js · React · Tailwind · Shipped
+- **TIM Family Care Agency** - Client site for healthcare agency · Next.js · React · Tailwind · Shipped · https://tim-family-care-agency.com/
 - **Chatflix** — Social streaming app, Netflix redesign · React Native · TypeScript · Expo
 - **Ministry Website** — Client site for a college women's ministry · React · TypeScript
 - **VR Simulation** — Interactive senior project built in Unity · C#
