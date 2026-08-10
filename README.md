@@ -17,15 +17,15 @@ Currently open to **full-time roles** in software development.
 ---
 
 ## What I'm building!
-- **Personal Portfolio Site** - Personal portfolio site to showcase work and services · coming soon
-- **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React
+- **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React · Currently working on Fronted Portion
 - **Dog and House Sitting Business Site** — Live client site for a small business · coming soon
 - **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
 
 
 ---
 
-## Shipped
+## Built
+- **Personal Portfolio Site** - Personal portfolio site to showcase work and services · Next.js · TypeScript · React · Tailwind · https://kamy-portfolio.vercel.app/
 - **TIM Family Care Agency** - Client site for healthcare agency · Next.js · React · Tailwind · Shipped
 - **Chatflix** — Social streaming app, Netflix redesign · React Native · TypeScript · Expo
 - **Ministry Website** — Client site for a college women's ministry · React · TypeScript
