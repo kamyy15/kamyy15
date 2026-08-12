@@ -11,22 +11,21 @@ Currently open to **full-time roles** in software development.
 ---
 
 ## Tech stack
-`Python` `C#` `C++` `React` `TailWind` `JavaScript / TypeScript` `HTML & CSS`  
-`Swift` `FastAPI` `SQLite` `PostgreSQL` `Unity`
+`Python` `C#` `C++` `React` `TailWind` `JavaScript / TypeScript` `HTML & CSS` `FastAPI` `SQLite` `PostgreSQL` `Unity`
 
 ---
 
 ## What I'm building!
 - **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React · Currently working on Fronted Portion
-- **Dog and House Sitting Business Site** — Live client site for a small business · coming soon
+- **Coastal Watch Naples Website** — Live client site for a small business · coming soon
 - **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
 
 
 ---
 
 ## Built
-- **Personal Portfolio Site** - Personal portfolio site to showcase work and services · Next.js · TypeScript · React · Tailwind · https://kamy-portfolio.vercel.app/
-- **TIM Family Care Agency** - Client site for healthcare agency · Next.js · React · Tailwind · Shipped · https://tim-family-care-agency.com/
+- **Personal Portfolio Site** - Personal portfolio site to showcase work and services · Next.js · TypeScript · React · Tailwind · [Live Site](https://kamy-portfolio.vercel.app/)
+- **TIM Family Care Agency** - Client site for healthcare agency · Next.js · React · Tailwind · Shipped · [Live Site](https://tim-family-care-agency.com/)
 - **Chatflix** — Social streaming app, Netflix redesign · React Native · TypeScript · Expo
 - **Ministry Website** — Client site for a college women's ministry · React · TypeScript
 - **VR Simulation** — Interactive senior project built in Unity · C#
