@@ -19,6 +19,7 @@ Currently open to **full-time roles** in software development.
 - **Job Application Tracker** — Full-stack app with AI cover letter generation · Python, FastAPI, PostgreSQL, React · Currently working on Fronted Portion
 - **Coastal Watch Naples Website** — Live client site for a small business · coming soon
 - **Dog Groomer App** — Mobile scheduling app · Swift, Apple ecosystem
+- **Community Hub App** - Church ministry community center app · React Native, TypeScript, Supabase
 
 
 ---
